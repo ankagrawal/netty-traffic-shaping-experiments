@@ -1,0 +1,5 @@
+rootProject.name = 'netty-exp'
+include 'server'
+include 'client'
+include 'exp-server'
+
